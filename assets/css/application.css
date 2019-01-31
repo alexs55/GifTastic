@@ -46,7 +46,7 @@ p {
 
 body {
     margin:0;
-    background-image: url("");
+    background-image: url("https://github.com/alexs55/GifTastic/blob/master/assets/images/background.png?raw=true");
     min-height:100vh;
     display:flex;
     align-items:center;
