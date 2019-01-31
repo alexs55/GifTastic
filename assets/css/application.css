@@ -48,6 +48,7 @@ body {
     margin:0;
     background-image: url("https://github.com/alexs55/GifTastic/blob/master/assets/images/background.png?raw=true");
     min-height:100vh;
+    background-color: black;
     display:flex;
     align-items:center;
     justify-content:center;
