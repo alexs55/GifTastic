@@ -46,7 +46,7 @@ p {
 
 body {
     margin:0;
-    background-color:#191919;
+    background-image: url("");
     min-height:100vh;
     display:flex;
     align-items:center;
